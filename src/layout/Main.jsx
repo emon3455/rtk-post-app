@@ -13,10 +13,6 @@ const Main = () => {
 
             <Outlet/>
 
-            <div className="text-center bg-gray-200 p-2 ">
-                RTK Query || Copyright owner Emon
-            </div>
-
         </div>
     );
 };
